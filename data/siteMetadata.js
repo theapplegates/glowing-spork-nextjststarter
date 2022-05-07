@@ -1,7 +1,7 @@
 const siteMetadata = {
   title: 'Living Life',
   author: 'Paul Applegate',
-  headerTitle: 'Living Life,
+  headerTitle: 'Living Life',
   description: 'Follow my daily hijinks here. A lot of science-related stuff, and some serious subjects like cancer. Fuck cancer.',
   language: 'en-us',
   theme: 'system', // system, dark or light
